@@ -1,0 +1,23 @@
+{
+  "name": "ex0",
+  "version": "1.0.0",
+  "description": "ws hotel liks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noa tendler",
+  "license": "ISC",
+  "dependencies": {
+    "node-pushnotifications": "^0.1.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noatendler/ws_ex0.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noatendler/ws_ex0/issues"
+  },
+  "homepage": "https://github.com/noatendler/ws_ex0#readme"
+}
